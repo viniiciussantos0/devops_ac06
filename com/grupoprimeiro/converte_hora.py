@@ -1,4 +1,5 @@
 def converte_hora(hora24, minuto24):
+    """ Converte a hora """
     if hora24 > 23 or hora24 < 0 or minuto24 < 0 or minuto24 > 59:
         return None
 
