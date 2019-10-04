@@ -1,5 +1,5 @@
-import pytest
 from com.grupoprimeiro.conta_corrente import ContaCorrente
+
 
 def test_alterar_nome():
     conta_corrente = ContaCorrente(5, 'lucas')
