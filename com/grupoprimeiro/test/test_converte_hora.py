@@ -1,3 +1,7 @@
+""" Este arquivo contém funções para
+    testar as funções do módulo converte_hora """
+
+
 from com.grupoprimeiro.converte_hora import converte_hora
 
 

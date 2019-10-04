@@ -1,3 +1,7 @@
+""" Este arquivo contém funções para
+    testar as funções do módulo ContaCorrente """
+
+
 from com.grupoprimeiro.conta_corrente import ContaCorrente
 
 

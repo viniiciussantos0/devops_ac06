@@ -1,3 +1,6 @@
+""" Este arquivo contém função para verificar o valor do pagamento """
+
+
 def valor_pagamento(valor, dias_atraso):
     """ Verifica valor do pagamento """
     if valor < 0:

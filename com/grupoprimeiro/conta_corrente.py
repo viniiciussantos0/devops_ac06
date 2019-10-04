@@ -1,4 +1,9 @@
+""" Este arquivo contém a classe da Conta Corrente """
+
+
 class ContaCorrente:
+    """ Essa classe contém as funções para alterar o nome,
+        criar deposito e gerar saque """
 
     def __init__(self, numero, nome_correntista, saldo=0.0):
         """ Construtor da classe Conta Corrente """

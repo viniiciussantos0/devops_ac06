@@ -1,3 +1,7 @@
+""" Este arquivo contém funções para
+    testar as funções do módulo valor_pagamento """
+
+
 from com.grupoprimeiro.calcula_parcela import valor_pagamento
 
 

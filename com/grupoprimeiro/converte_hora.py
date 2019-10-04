@@ -1,3 +1,6 @@
+""" Este arquivo contém função para converter hora """
+
+
 def converte_hora(hora24, minuto24):
     """ Converte a hora """
     if hora24 > 23 or hora24 < 0 or minuto24 < 0 or minuto24 > 59:
